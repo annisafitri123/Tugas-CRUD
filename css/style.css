@@ -1,0 +1,19 @@
+body {
+	font-family: times new roman;
+	color: #000000;
+	background: url(../img/background.jpg); 
+}
+
+nav {
+	background: #19468e;
+}
+
+nav a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: #e08d08;
+}
